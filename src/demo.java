@@ -25,7 +25,7 @@ public class demo {
 //        scan.close();
         int d1 = (int)(Math.random()*100)%10;
         System.out.println(d1);
-//        System.out.println("name"+name);
+        System.out.println("name");
     }
 
 }
